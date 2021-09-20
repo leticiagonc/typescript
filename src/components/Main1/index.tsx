@@ -5,20 +5,18 @@ const Main1 = () => {
        <S.Main1>
            <h3>Disciplinas:</h3>
            <p>
-           <S.A href="Biologia" target="_self"> 
             <h1> Biologia </h1>
-           </S.A>
-                <Link to="">BIOlOGIA</Link>   
-                <Link to="">QUIMICA</Link>
-                <Link to="">FISICA</Link>
-                <Link to="">MATEMATICA</Link>
-                <Link to="">GEOGRAFIA</Link>
-                <Link to="">HISTORIA</Link>
-                <Link to="">SOCIOLOGIA</Link>
-                <Link to="">FILOSOFIA</Link>
-                <Link to="">REDACAO</Link>
-                <Link to="">LITERATURA</Link>
-                <Link to="">INGLES</Link>
+                <Link to="Biologia">BIOlOGIA</Link>   
+                <Link to="/">QUIMICA</Link>
+                <Link to="/">FISICA</Link>
+                <Link to="/">MATEMATICA</Link>
+                <Link to="/">GEOGRAFIA</Link>
+                <Link to="/">HISTORIA</Link>
+                <Link to="/">SOCIOLOGIA</Link>
+                <Link to="/">FILOSOFIA</Link>
+                <Link to="/">REDACAO</Link>
+                <Link to="/">LITERATURA</Link>
+                <Link to="/">INGLES</Link>
            </p>
            <h4 className="table2">Encontre todos os conteúdos que caem no ENEM e vestibulares
              <Link to="" className="caixa">Conheça nossos planos!</Link>

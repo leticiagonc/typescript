@@ -14,10 +14,10 @@ const Main2 = () => {
       <img  src= {foto3} alt="Gimnosperma" width="100" height="150"/>
       <img  src= {foto4} alt="Angiosperma" width="100" height="150"/>
       <h4>Exercícios:</h4>
-      <Link to=" ">ENEM</Link> 
+      <Link to=" /">ENEM</Link> 
        
       
-      <a href="vestibular.html" >Vestibulares</a>
+      <Link to=" /">Vestibulares</Link>
        </S.Body2>
    )
    }
