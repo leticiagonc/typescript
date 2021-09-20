@@ -1,21 +1,12 @@
-import { Header1,Project } from "components";
-import {projects} from "services/data"
-import * as S from "./styles"
+import { Header1, Main1 } from "components";
+
 
 const Home = () => {
-    return(
+    return (
         <>
-     <Header1 />
-     <S.Main>
-      {projects.map((item)=>(
-          <Project key ={item.id}>
-              <p>{item.materia}</p>
-              <h4>  </h4>
-          </Project>
-      ))}
-      </S.Main>
-
-      </>
+            <Header1 />
+            <Main1 />
+        </>
     );
 };
 export default Home;
