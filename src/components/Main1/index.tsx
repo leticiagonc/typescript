@@ -19,7 +19,7 @@ const Main1 = () => {
                 <Link to="/">INGLES</Link>
            </p>
            <h4 className="table2">Encontre todos os conteúdos que caem no ENEM e vestibulares
-             <Link to="" className="caixa">Conheça nossos planos!</Link>
+             <Link to="/" className="caixa">Conheça nossos planos!</Link>
             </h4>
        </S.Main1>
    )

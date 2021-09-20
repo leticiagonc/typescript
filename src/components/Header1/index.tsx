@@ -6,7 +6,7 @@ const Header1 = () => {
       <S.Header1>
          <h1>Nota Máxima</h1>
          <input type="text" id="pesquisar" value="&#128270;" />
-         <Link to="" >
+         <Link to="/" >
                <img src={perfil} alt="HTML tutorial" />
             </Link>
          </S.Header1>
